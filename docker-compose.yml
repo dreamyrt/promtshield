@@ -1,0 +1,9 @@
+services:
+  promptshield:
+    build: .
+    ports:
+      - "8000:8000"
+    environment:
+      - ADMIN_PASSWORD=admin123
+      - RISK_THRESHOLD=0.6
+    restart: unless-stopped
