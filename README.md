@@ -46,6 +46,18 @@
 
 ---
 
+## 📸 Демонстрація
+
+### 🖥️ SOC Dashboard
+
+![PromptShield SOC Dashboard](screenshots/img.png)
+
+### 🔥 Аналіз та блокування атак
+
+![PromptShield Attack Analysis](screenshots/img_1.png)
+
+---
+
 ## 🏗️ Архітектура системи
 
 ```text
